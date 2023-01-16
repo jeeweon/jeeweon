@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JI WON</h1>
 
-![JIONY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeweon&count_private=true&theme=tokyonight&show_icons=true)
+![JIONY's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=jeeweon&count_private=true&theme=tokyonight&show_icons=true)
 
 <p align="left">
 </p>
